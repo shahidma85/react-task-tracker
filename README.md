@@ -27,6 +27,10 @@ To run this project locally, follow these steps:
    ```bash
    npm install
    ```
+3. Start the JSON Server:
+   ```bash
+   npm run server
+   ```
 4. Start the development server:
     ```bash
    npm start
