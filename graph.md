@@ -12,6 +12,4 @@ graph TD;
     H --> I[Task State Management]
     I --> J[Local Storage / JSON Server]
     J --> K[Data Persistence]
-    K --> L[Backend API Optional]
-    L --> M[Database Optional]
   ```
