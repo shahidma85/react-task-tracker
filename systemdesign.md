@@ -9,8 +9,6 @@ graph TD;
     F --> H[Form Component]
     C --> I[State Management]
     I --> J[Local Storage / JSON Server]
-    J --> K[Backend API]
-    K --> L[Database]
 ```
 
 ### Explanation
